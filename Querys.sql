@@ -8,7 +8,7 @@ SELECT * FROM races LIMIT 10;
 SELECT * FROM results LIMIT 5;
 
 -- Cantidad de circuitos, carreras y conductores
-select count(*) from circuits;
+select count(*) from circuits; 
 
 select count(*) from races;
 
