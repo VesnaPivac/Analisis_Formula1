@@ -7,6 +7,7 @@ images/: Carpeta que contiene las imágenes generadas durante el análisis y vis
 BS-F1.html: Pagina html en el que se muestra todo lo que se hizo en la libreta de jupyter.
 BS-F1.ipynb: Libreta jupyter en el que se realizo el analisis y desarrollo de la base de datos.
 Formula1.mdj: Archivo que contiene el modelo Entidad-Relación de la base de datos utilizada.
+Querys.sql: Archivo que contiene todos los querys utilizados para el analisis.
 README.md: El archivo que estás leyendo actualmente, que proporciona una visión general del proyecto.
 
 ## Estructura de la Base de Datos
